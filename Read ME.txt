@@ -1,0 +1,12 @@
+API app = main.py
+
+Need 
+i)N, P,K of the soil proper N,P,K , I have seen chat gpt to give wrong N,P,K for the Wrong Crops 
+ii) temperature, moisture , ph , rainfall 
+
+(Don't use Chat gpt For N,P,K ratio , for temperature moisture rainfall its fine )
+N - Nitrogen
+P- Phosphorus
+K - Potassium
+
+
